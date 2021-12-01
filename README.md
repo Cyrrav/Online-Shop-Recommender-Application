@@ -1,2 +1,4 @@
 # Online-Shop-Application
-A personal Java project. Created based off of a prompt from a friend as an experiment with the programming language.
+A basic shop application with a recommendation system.
+
+A personal Java project to learn more about the language syntax. Created based off of a prompt from a friend as a hands-on experiment.
